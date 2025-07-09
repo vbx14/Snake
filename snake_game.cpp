@@ -4,8 +4,8 @@
 #include <chrono>
 #include <ncurses.h>
 
-int nScreenWidth = 120;
-int nScreenHeight = 30;
+int nScreenWidth = 181;
+int nScreenHeight = 47;
 
 struct sSnakeSegment
 {
